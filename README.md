@@ -1,0 +1,1 @@
+I'll be recreating an etch-a-sketch, as part of the Odin Project curriculum.

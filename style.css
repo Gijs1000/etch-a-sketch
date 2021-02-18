@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+main {
+    width: 95%;
+    height: 100%;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+}
+
+div {
+    /* border: 1px dotted black; */
+}
+
+.hovered {
+    background-color: lightgray;
+}
